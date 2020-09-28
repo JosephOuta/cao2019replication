@@ -14,8 +14,14 @@ output:
 
 ## Introduction
 
-[No abstract is needed.]  Each replication project will have a straightforward, no frills report of the study and results.  These reports will be publicly available as supplementary material for the aggregate report(s) of the project as a whole.  Also, to maximize project integrity, the intro and methods will be written and critiqued in advance of data collection.  Introductions can be just 1-2 paragraphs clarifying the main idea of the original study, the target finding for replication, and any other essential information.  It will NOT have a literature review -- that is in the original publication. You can write both the introduction and the methods in past tense.  
+I chose this paper because it's an experimental application of Bayes theorem, a ubiquitous framework in the social sciences. Replicating it will require me to internalize the theorem's basic intuition as well as its more complex manifestations. The experimental paradigm involves a qualitative and computational exploration of how beliefs are updated with evidence. This is a great opportunity to think about how Bayesian principles fits in with people's real world decision-making, an invaluable tool in a social scientist's arsenal. 
 
+This paper explored participant's judgments about the likelihood of a hypothetical person being of a particular occupation based on idiosyncratic statistical heuristics. The replication target will be study 5, which will consist of three parts; the first part will query people's prior, posterior, and likelihood evaluations of an air traffic control (ATC) communicator either being male or female; the second part will compute a model posterior for each participant and compare it with their actual posterior; and the third part will have the participants evaluate the moral character of a third party who makes a Bayesian judgment about the same scenario.
+
+If the results of the original study hold, this study expects to find that participants make Bayesian judgments about the ATC scenario, with actual and model posteriors favoring the communicator being male rather than female. A second key finding will be that participants will judge a third party who makes the same Bayesian judgments as themselves as being unfair, unjust, inaccurate and unintelligent.The study is expected to be conducted on Amazon's task crowd-sourcing marketplace, Mechanical Turk. Some challenges expected include low quality of data due to bots or inattentive participants, and the possibility participants looking up answers to the filler questions about unrelated statistical phenomena.
+
+Link to the [repository](https://github.com/JosephOuta/cao2019)  
+Link to the [original paper](https://github.com/JosephOuta/cao2019/blob/master/original_paper.pdf)
 
 ## Methods
 
@@ -38,6 +44,7 @@ Can quote directly from original article - just put the text in quotations and n
 ### Analysis Plan
 
 Can also quote directly, though it is less often spelled out effectively for an analysis strategy section.  The key is to report an analysis strategy that is as close to the original - data cleaning rules, data exclusion rules, covariates, etc. - as possible.  
+
 
 **Clarify key analysis of interest here**  You can also pre-specify additional analyses you plan to do.
 
