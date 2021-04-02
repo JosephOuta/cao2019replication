@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/700018/bfa3f89280bb4da086a8ee5ebf236d5a
+bundleId: https://api.rpubs.com/api/v1/document/700018/bfa3f89280bb4da086a8ee5ebf236d5a
+url: http://rpubs.com/joouta/700018
+when: 1607269684.42421
