@@ -3,6 +3,7 @@
 This repository contains materials for the replication of "Cao, Kleiman-Weiner & Banaji (2019) People make the same Bayesian judgment they criticize in others". I did this project as part of the class Psych 251: Experimental Methods.
 
 # Repository Structure
+```bash
 .
 ├── Data
 ├── Original paper
@@ -10,7 +11,7 @@ This repository contains materials for the replication of "Cao, Kleiman-Weiner &
     ├── figures
     └── rsconnect
         └── documents
-
+```
 
 1. Data: contains raw data files
 2. Original paper  
