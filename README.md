@@ -13,8 +13,8 @@ This repository contains materials for the replication of "Cao, Kleiman-Weiner &
         └── documents
 ```
 
-# Data
+## Data
 Contains raw data files 
 
-# Writeup
+## Writeup
 Contains the replication report with study of interest, methods and R analysis script
